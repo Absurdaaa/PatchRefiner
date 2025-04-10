@@ -118,3 +118,7 @@ data
 work_dir
 dcgm
 # examples
+
+
+# mac
+.DS_Store
